@@ -103,12 +103,6 @@ Comprehensive documentation of Windows Server practical labs and configurations,
 
 ---
 
-## GitHub Stats
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Anjali-Saini-Git&layout=compact&theme=dark)
-
----
-
 ## 🔗 Connect With Me
 
 - **Email**: [anjalisaini4492@gmail.com](mailto:anjalisaini4492@gmail.com)
