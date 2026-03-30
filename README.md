@@ -47,7 +47,7 @@ Cybersecurity professional with hands-on experience in security operations, thre
 ## Featured Projects
 
 ### SOC Phishing Investigation: HR Policy Update
-**Repository**: [SOC-Phishing-Investigation](https://github.com/Anjali-Saini-Git/SOC-Phishing-Investigation)
+**Repository**: [SOC_Phishing_Investigation](https://github.com/Anjali-Saini-Git/SOC_Phishing_Investigation)
 
 A practical incident response project demonstrating end-to-end phishing email analysis.
 
@@ -65,7 +65,7 @@ A practical incident response project demonstrating end-to-end phishing email an
 
 
 ### Windows Server Practical Guide
-**Repository**: [Windows-Server-Practical](https://github.com/Anjali-Saini-Git/Windows-Server-Practical)
+**Repository**: [Windows_Server_2022_Enterprise_Lab](https://github.com/Anjali-Saini-Git/Windows_Server_2022_Enterprise_Lab)
 
 Comprehensive documentation of Windows Server practical labs and configurations, covering system administration and security best practices.
 
