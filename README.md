@@ -4,15 +4,6 @@ Cybersecurity professional with hands-on experience in security operations, thre
 
 ---
 
-## About Me
-
-- **Currently pursuing**: Diploma in Cybersecurity at ASD Academy, Kota
-- **Education**: Bachelor of Computer Applications (BCA) from Amity University | CGPA: 8.84/10
-- **Specializations**: SIEM log analysis, phishing investigation, threat intelligence, incident response
-- **Career Goal**: Launch a career in SOC (Security Operations Center) as a cyber-security professional
-
----
-
 ## Technical Skills
 
 ### SIEM & Log Analysis
@@ -100,6 +91,15 @@ Comprehensive documentation of Windows Server practical labs and configurations,
 
 - **TryHackMe Learner** - Hands-on cybersecurity labs and challenges
   - Profile: [AnjaliSaini01](https://tryhackme.com/p/AnjaliSaini01)
+
+---
+
+## About Me
+
+- **Currently pursuing**: Diploma in Cybersecurity at ASD Academy, Kota
+- **Education**: Bachelor of Computer Applications (BCA) from Amity University | CGPA: 8.84/10
+- **Specializations**: SIEM log analysis, phishing investigation, threat intelligence, incident response
+- **Career Goal**: Launch a career in SOC (Security Operations Center) as a cyber-security professional
 
 ---
 
