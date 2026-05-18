@@ -90,7 +90,7 @@ Comprehensive documentation of Windows Server practical labs and configurations,
   - Institution: ASD Academy, Kota
 
 - **TryHackMe Learner** - Hands-on cybersecurity labs and challenges
-  - Profile: [AnjaliSaini01](https://tryhackme.com/p/AnjaliSaini01)
+  - Profile: [CipherDusk](https://tryhackme.com/p/CipherDusk)
 
 ---
 
@@ -107,7 +107,7 @@ Comprehensive documentation of Windows Server practical labs and configurations,
 
 - **Email**: [anjalisaini4492@gmail.com](mailto:anjalisaini4492@gmail.com)
 - **LinkedIn**: [linkedin.com/in/anjalisaini92](https://www.linkedin.com/in/anjalisaini92)
-- **TryHackMe**: [AnjaliSaini01](https://tryhackme.com/p/AnjaliSaini01)
+- **TryHackMe**: [AnjaliSaini01](https://tryhackme.com/p/CipherDusk)
 
 ---
 
