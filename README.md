@@ -107,7 +107,7 @@ Comprehensive documentation of Windows Server practical labs and configurations,
 
 - **Email**: [anjalisaini4492@gmail.com](mailto:anjalisaini4492@gmail.com)
 - **LinkedIn**: [linkedin.com/in/anjalisaini92](https://www.linkedin.com/in/anjalisaini92)
-- **TryHackMe**: [AnjaliSaini01](https://tryhackme.com/p/CipherDusk)
+- **TryHackMe**: [CipherDusk](https://tryhackme.com/p/CipherDusk)
 
 ---
 
