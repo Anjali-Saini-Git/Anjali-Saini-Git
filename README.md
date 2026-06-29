@@ -1,114 +1,111 @@
 # Hi, I'm Anjali Saini
 
-Cybersecurity professional with hands-on experience in security operations, threat analysis, and incident investigation. I'm passionate about cybersecurity and learning emerging security threats.
+I’m passionate about cybersecurity, threat analysis, and continuous learning. I build hands-on projects to document my journey and help others in the community.
+
+---
+
+## Certifications & Achievements
+
+- **TryHackMe Pre-Security Certificate** (Completed: 2nd June 2026 | 19+ hours)
+- **Security Operation Center (SOC) Certificate** (ASD Cybernetics Inc.)
+- **TryHackMe Top 5%** – 60+ rooms completed across multiple paths
+- **CEH v13** – Modules in-progress
 
 ---
 
 ## Technical Skills
 
-### SIEM & Log Analysis
-- **Splunk**: SPL queries, search & reporting, alert investigation, dashboarding
-- Windows Event Logs & Syslog analysis
-- Event ID analysis (4624, 4625, and more)
+### Security Operations & SOC
+- **SIEM**: Splunk (SPL queries, dashboards, alert investigation)
+- **Log Analysis**: Windows Event Logs, Syslog, Event ID analysis (4624, 4625)
+- **Alert Triage**: False positive identification, escalation procedures
+- **Incident Response**: Phishing investigations, email forensics, IR lifecycle
+- **Threat Intelligence**: VirusTotal, AbuseIPDB, Any.Run, URLscan.io, OSINT Framework
 
-### Security Operations
-- Alert triage & escalation
-- Phishing analysis & email forensics
-- Threat intelligence & OSINT tools (VirusTotal, AbuseIPDB, Any.Run, URLscan.io)
-- Incident documentation & structured reporting
-- Incident response lifecycle
+### Frameworks & Methodologies
+- MITRE ATT&CK, Cyber Kill Chain
+- CIA Triad, NIST Incident Response
+- TTPs (Tactics, Techniques, Procedures)
 
-### Frameworks & Knowledge
-- MITRE ATT&CK framework
-- Cyber Kill Chain
-- Windows internals (processes, registry, event logs)
-- Networking fundamentals (TCP/IP, DNS, OSI model)
+### Operating Systems & Infrastructure
+- **Windows**: Server 2022 (AD DS, DNS, DHCP, GPO), Event Viewer, Registry
+- **Linux**: CLI, SSH, file system navigation, basic administration
+
+### Networking
+- TCP/IP, OSI Model, DNS, HTTP/HTTPS, VLANs, Subnetting
+- **Tools**: Cisco Packet Tracer, Wireshark, Nmap
 
 ### Tools & Platforms
-- **SIEM**: Splunk
-- **Virtualization**: VMware
-- **Network**: Cisco Packet Tracer
-- **Phishing Analysis**: PhishTool
-- **Training**: TryHackMe
-- **Platforms**: Windows Server, Windows Event Logs
+- Splunk, PhishTool, VMware, Packet Tracer
+- TryHackMe, GitHub, Python (basic), SQL (basic)
 
+---
+
+## CEH (Certified Ethical Hacker) Documentation
+
+I'm documenting my entire CEH v13 preparation journey. Each module includes detailed notes, tools, and practical insights.
+
+| Module | Topics | Status |
+|--------|--------|--------|
+| [Module 1-2]| Introduction to Ethical Hacking, Footprinting & Reconnaissance | Completed |
+| Module 3 | Scanning & Enumeration | 📝 In Progress |
+
+ [View CEH Repository](./CEH-Modules)
 
 ---
 
 ## Featured Projects
 
 ### SOC Phishing Investigation: HR Policy Update
-**Repository**: [SOC_Phishing_Investigation](https://github.com/Anjali-Saini-Git/SOC_Phishing_Investigation)
+[Repository](https://github.com/Anjali-Saini-Git/SOC_Phishing_Investigation)
 
-A practical incident response project demonstrating end-to-end phishing email analysis.
+End-to-end phishing investigation demonstrating:
+- Email header forensics (PhishTool, SPF/DKIM/DMARC analysis)
+- Malicious double-extension payload analysis
+- URL redirect & credential harvesting tactics
+- IOC verification (VirusTotal, WHOIS)
+- Structured incident reporting
 
-**Key Skills Demonstrated:**
-- Email header forensics using PhishTool
-- SPF/DKIM/DMARC authentication analysis & spoofing detection
-- Malicious file analysis (Python double-extension payloads)
-- URL redirect & credential-harvesting tactics
-- File hash verification using VirusTotal
-- Domain reputation assessment using WHOIS
-
-**Technologies**: PhishTool, VirusTotal, WHOIS, Email Headers
+**Technologies**: PhishTool, VirusTotal, WHOIS, Python
 
 ---
 
+### Windows Server 2022 Enterprise Lab
+[Repository](https://github.com/Anjali-Saini-Git/Windows_Server_2022_Enterprise_Lab)
 
-### Windows Server Practical Guide
-**Repository**: [Windows_Server_2022_Enterprise_Lab](https://github.com/Anjali-Saini-Git/Windows_Server_2022_Enterprise_Lab)
+Full enterprise-grade Windows Server deployment including:
+- Active Directory Domain Services (Users, Groups, OUs)
+- DNS & DHCP configuration
+- Group Policy Objects (GPOs) for security hardening
+- Event log analysis & auditing
 
-Comprehensive documentation of Windows Server practical labs and configurations, covering system administration and security best practices.
-
-**Topics Covered:**
-- Active Directory configuration
-- User & group management
-- Windows Server security hardening
-- Event log analysis for security monitoring
-- Group Policy implementation
-- Network configuration
-
-**Technologies**: Windows Server, Active Directory, Event Viewer, Group Policy
+**Technologies**: Windows Server, AD DS, GPO, Event Viewer
 
 ---
 
 ## Hands-On Experience
 
-**Security Analyst Level 1 (SAL1) Training Path** - Practical, lab-based experience:
-- Analyzed Windows and SIEM logs using Splunk with SPL queries
-- Performed SOC L1 alert triage, distinguishing false positives from genuine incidents
-- Investigated phishing emails through headers, URLs, and attachment analysis
-- Used threat intelligence and OSINT platforms for alert enrichment
-- Practiced incident response fundamentals and alert reporting procedures
+- **Security Analyst Level 1 (SAL1) Training** – Practical SOC lab experience
+- **TryHackMe** – Top 5% | 50+ rooms (Pre-Security, SOC, Networking, Linux)
+- **CEH v13** – Completed 2 modules with detailed documentation
+- **Network Engineering** – VLANs, routing, switching in Cisco Packet Tracer
 
 ---
 
-## Certifications & Training
+## Education
 
-- **Diploma in Cybersecurity** (In Progress)
-  - Coursework: SOC Operations, Threat Detection, Incident Response, Python for Security, Networking Fundamentals
-  - Institution: ASD Academy, Kota
-
-- **TryHackMe Learner** - Hands-on cybersecurity labs and challenges
-  - Profile: [CipherDusk](https://tryhackme.com/p/CipherDusk)
+- **Diploma in Cybersecurity** – ASD Academy, Kota *(In Progress)*
+- **BCA (Bachelor of Computer Applications)** – Amity University | CGPA: 8.84/10
 
 ---
 
-## About Me
+## Connect with Me
 
-- **Currently pursuing**: Diploma in Cybersecurity at ASD Academy, Kota
-- **Education**: Bachelor of Computer Applications (BCA) from Amity University | CGPA: 8.84/10
-- **Specializations**: SIEM log analysis, phishing investigation, threat intelligence, incident response
-- **Career Goal**: Launch a career in SOC (Security Operations Center) as a cyber-security professional
-
----
-
-## 🔗 Connect With Me
-
-- **Email**: [anjalisaini4492@gmail.com](mailto:anjalisaini4492@gmail.com)
-- **LinkedIn**: [linkedin.com/in/anjalisaini92](https://www.linkedin.com/in/anjalisaini92)
+- **Email**: anjalisaini4492@gmail.com
+- **LinkedIn**: [linkedin.com/in/anjalisaini92](https://linkedin.com/in/anjalisaini92)
 - **TryHackMe**: [CipherDusk](https://tryhackme.com/p/CipherDusk)
+- **GitHub**: [Anjali-Saini-Git](https://github.com/Anjali-Saini-Git)
 
 ---
 
-
+> *“Learning in public, sharing every step!”*
