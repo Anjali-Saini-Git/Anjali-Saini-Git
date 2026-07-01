@@ -48,7 +48,8 @@ I'm documenting my entire CEH v13 preparation journey. Each module includes deta
 | Module | Topics | Status |
 |--------|--------|--------|
 | [Module 1-2]| Introduction to Ethical Hacking, Footprinting & Reconnaissance | Completed |
-| Module 3 | Scanning & Enumeration | 📝 In Progress |
+| Module 3 | Network Scanning | Completed |
+| Module 4 | Enumeration | In Progress |
 
  [View CEH Repository](https://github.com/Anjali-Saini-Git/CEH-Modules)
 
